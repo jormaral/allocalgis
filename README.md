@@ -15,9 +15,9 @@ Puedes descargar AL LocalGIS v3 en el siguiente enlace:<a href="https://github.c
 
 ## Configuración del entorno de desarrollo (compilación e instalación)
 
-<a href="https://github.com/Cenatic/allocalgis/releases/download/Configuraci%C3%B3n/SETSI_LOCALGIS3_Manual.de.Compilacion.v3.0.pdf" target="_new">Manual de compilación</a>
+<a href="https://github.com/e-admin/allocalgis/releases/download/Documentaci%C3%B3n/SETSI_LOCALGIS3_Manual.de.Compilacion.v4.0.pdf" target="_new">Manual de compilación</a>
 
-<a href="https://github.com/Cenatic/allocalgis/releases/download/Configuraci%C3%B3n/SETSI_LOCALGIS3_Manual.de.Instalacion.pdf" target="_new">Manual de instalación</a>
+<a href="https://github.com/e-admin/allocalgis/releases/download/Documentaci%C3%B3n/SETSI_LOCALGIS3_Manual.de.Instalacion.v9.0.2.pdf" target="_new">Manual de instalación</a>
 
 *Nota 1: En el punto 2.2 del "Manual de Instalación" hay que tener en cuenta que el código actual no se encuentra alojado en una plataforma Subversion, el código se aloja en una plataforma Git.*
 
